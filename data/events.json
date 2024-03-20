@@ -1,0 +1,93 @@
+[
+  {
+    "Source": "com.mycompany.myapp",
+    "Detail": "{ \"partner\": \"mypartner\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "sample.event",
+    "EventBusName": "arn:aws:events:us-west-2:607050363559:event-bus/ApiDestinationStackEventBus9AD41034"
+  },{
+    "Source": "com.mycompany.myapp",
+    "Detail": "{ \"partner\": \"mypartner\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "sample.event",
+    "EventBusName": "arn:aws:events:us-west-2:607050363559:event-bus/ApiDestinationStackEventBus9AD41034"
+  },{
+    "Source": "com.mycompany.myapp",
+    "Detail": "{ \"partner\": \"mypartner\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "sample.event",
+    "EventBusName": "arn:aws:events:us-west-2:607050363559:event-bus/ApiDestinationStackEventBus9AD41034"
+  },{
+    "Source": "com.mycompany.myapp",
+    "Detail": "{ \"partner\": \"mypartner\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "sample.event",
+    "EventBusName": "arn:aws:events:us-west-2:607050363559:event-bus/ApiDestinationStackEventBus9AD41034"
+  },{
+    "Source": "com.mycompany.myapp",
+    "Detail": "{ \"partner\": \"mypartner\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "sample.event",
+    "EventBusName": "arn:aws:events:us-west-2:607050363559:event-bus/ApiDestinationStackEventBus9AD41034"
+  },{
+    "Source": "com.mycompany.myapp",
+    "Detail": "{ \"partner\": \"mypartner\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "sample.event",
+    "EventBusName": "arn:aws:events:us-west-2:607050363559:event-bus/ApiDestinationStackEventBus9AD41034"
+  },{
+    "Source": "com.mycompany.myapp",
+    "Detail": "{ \"partner\": \"mypartner\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "sample.event",
+    "EventBusName": "arn:aws:events:us-west-2:607050363559:event-bus/ApiDestinationStackEventBus9AD41034"
+  },{
+    "Source": "com.mycompany.myapp",
+    "Detail": "{ \"partner\": \"mypartner\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "sample.event",
+    "EventBusName": "arn:aws:events:us-west-2:607050363559:event-bus/ApiDestinationStackEventBus9AD41034"
+  },{
+    "Source": "com.mycompany.myapp",
+    "Detail": "{ \"partner\": \"mypartner\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "sample.event",
+    "EventBusName": "arn:aws:events:us-west-2:607050363559:event-bus/ApiDestinationStackEventBus9AD41034"
+  },{
+    "Source": "com.mycompany.myapp",
+    "Detail": "{ \"partner\": \"mypartner\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "sample.event",
+    "EventBusName": "arn:aws:events:us-west-2:607050363559:event-bus/ApiDestinationStackEventBus9AD41034"
+  }
+]
